@@ -1,0 +1,27 @@
+1. 
+"mkdir" -- creates new directory
+"cd" -- changes directory
+"pwd" --  shows current working directory
+"ls" -- list all files in current folder
+"ls -t" -- list all files in current folder ordered by the time of last change
+"ls -l" -- list all files in current folder in each line
+"ls -ltr" -- list all recently modified files in current folder 
+".." -- changes current working folder to one folder up
+"cat" -- prints content of a files
+"pico" -- utilizes pico, a text editor, to edit a file
+"pico -l" -- utilizes pico, a text editor, to edit a file with line-numbering visible
+
+2. 
+"git config --global user.email" -- sets associated email address of future and current git projects on local machines
+"git config --global user.name" -- sets username for git commits and other actions deployed on current machine
+"git clone" -- clones github repository
+"git status" -- checks if the current directory has any unsaved or untracked changes
+"git add" -- adds file(s) to be updated in the next commit 
+"git commit -m" -- Commits modified files or new files to the local repository 
+"git push" -- Syncs commits to main or a remote branch
+
+3.
+i. Students are only allowed to collaborate with students in their group, but may discuss general ideas with students outside the group. Studednts must be able to verbally explain their solution and demonstrate understanding of taught concepts. Students must always provide a collaboration statement for each and every assignment.
+ii. Students are allowed to consult any resources (except for generative artifical intelligence). Studednts must be able to verbally explain their solution and demonstrate understanding of taught concepts. Student must provide references for each and every submitted assignment.
+iii. Late work will have a 10% penalty administered per day, with exceptions granted on a case-by-case basis. 
+iv. Absences may affect participation grades. If significant absences are accumulated, students should consult instructor and other university resources to discuss remaining options, such as withdrawal. If students have never attended in any capacity by the third week of the semester, the Registrar's office will remove the student from the course roster. 
